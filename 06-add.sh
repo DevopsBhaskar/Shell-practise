@@ -9,3 +9,8 @@ name="devops"
 
 sum=$((s1+s2+$name))
 echo "total sum is $sum"
+
+leaders=("modi" "pavan" "vijay")
+echo "all leaders are:${leaders[@]}"
+echo "second leaders is:${leaders[1]}"
+
