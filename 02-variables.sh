@@ -3,14 +3,14 @@
 PERSON="Bhaskar"
 echo "Person name is $PERSON"
 
-per1=$1
+PER1=$1
 
-per2=$2
+PER2=$2
 
-echo "$per1:: How are you, $per2"
+echo "$PER1:: How are you, $PER2"
 
-echo "I am good $per2, what about you $per1"
+echo "I am good $PER2, what about you $PER1"
 
-echo "$per1, how is your devops daily job"
+echo "$PER1, how is your devops daily job"
 
-echo "$per2, its interesting, $per1"
+echo "$PER2, its interesting, $PER1"
