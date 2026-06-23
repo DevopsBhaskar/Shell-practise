@@ -1,0 +1,1 @@
+export course="Devops with AWS"
