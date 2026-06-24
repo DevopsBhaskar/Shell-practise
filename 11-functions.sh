@@ -10,9 +10,10 @@ fi
 validate(){
     if [ $1 -eq 0 ]; then
         echo "$2 is installed"
-        exit 1
+        
     else
         echo "SOMETHING is issue with $2"
+        exit 1
     fi
 }
 
